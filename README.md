@@ -2,5 +2,4 @@
 "A clean and modern landing page for the Huddle platform, fully responsive and built with pure HTML and CSS."
 
 Project:
-
 https://ziad-eid.github.io/Huddle-landing-page/
