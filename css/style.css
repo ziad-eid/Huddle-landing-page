@@ -205,6 +205,9 @@ header .content img {
 }
 
 @media (max-width: 991px) {
+    .content-section{
+        margin-bottom: 130px;
+    }
     .content-section .box {
         flex-direction: column;
         text-align: center;
@@ -274,6 +277,7 @@ header .content img {
         font-size: 15px;
         padding: 20px;
         text-align: center;
+         bottom: -163px;
     }
 
     .content-section .ready a {
